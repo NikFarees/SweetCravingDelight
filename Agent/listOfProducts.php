@@ -45,9 +45,10 @@ agents_approval.approval_status = 'approved'" . $searchCondition;
         // Table header.
         echo '<p> <a href="orderProduct.php" style="color: blue; text-decoration:
 underline;">Order Product</a></p>
+ <br/><p> <a href="bulkOrder.php" style="color: blue; text-decoration:
+underline;">Bulk Order</a></p>
  <br/><p> <a href="orderPending.php" style="color: blue; text-decoration:
 underline;">Order Approval (Pending)</a></p><br />
-
  <form method="GET" action="listOfProducts.php" >
  <input type="text" name="search" placeholder="Search by Product ID or Product
 Name" value="' . $searchQuery . '" style="width: 230px;">

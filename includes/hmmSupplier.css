@@ -27,7 +27,7 @@ body {
     border-bottom: 1px solid #999;
     height: 80px;
     margin: 0 auto;
-    width: 900px;
+    width: 1050px; /* UPDATED: Changed from 900px to 1050px */
 }
 
 #header h1 {
@@ -51,7 +51,7 @@ body {
     background: #fafafa;
     border-right: 1px solid #999;
     margin: 0 auto;
-    width: 900px;
+    width: 1050px;
     /* EDITED */
     height: 40px;
     list-style: none;
@@ -86,7 +86,7 @@ body {
     height: auto;
     margin: 0 auto;
     padding: 0 0 20px;
-    width: 900px;
+    width: 1050px; /* UPDATED: Changed from 900px to 1050px */
 }
 
 /* table */
@@ -116,7 +116,7 @@ th {
     margin: 0 auto;
     padding: 10px;
     text-align: center;
-    width: 900px;
+    width: 1050px; /* UPDATED: Changed from 900px to 1050px */
 }
 
 /* Added by Nik: */

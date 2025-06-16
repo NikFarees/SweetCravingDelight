@@ -27,7 +27,7 @@ body {
     border-bottom: 1px solid #999;
     height: 80px;
     margin: 0 auto;
-    width: 751px;
+    width: 900px;
 }
 
 #header h1 {
@@ -51,7 +51,7 @@ body {
     background: #fafafa;
     border-right: 1px solid #999;
     margin: 0 auto;
-    width: 750px;
+    width: 900px;
     /* EDITED */
     height: 40px;
     list-style: none;
@@ -86,7 +86,7 @@ body {
     height: auto;
     margin: 0 auto;
     padding: 0 0 20px;
-    width: 751px;
+    width: 900px;
 }
 
 /* table */
@@ -116,7 +116,7 @@ th {
     margin: 0 auto;
     padding: 10px;
     text-align: center;
-    width: 751px;
+    width: 900px;
 }
 
 /* Added by Nik: */
