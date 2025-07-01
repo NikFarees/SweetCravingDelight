@@ -246,7 +246,7 @@
                         <th>Product ID</th>
                         <th>Product Name</th>
                         <th>Available Quantity</th>
-                        <th>Price ($)</th>
+                        <th>Price RM </th>
                         <th>Order Quantity</th>
                     </tr>
                 </thead>
@@ -279,7 +279,7 @@
 
             <!-- Total Amount Display -->
             <div class="total-section">
-                <h3>Estimated Total: $<span id="totalAmount">0.00</span></h3>
+                <h3>Estimated Total: RM <span id="totalAmount">0.00</span></h3>
             </div>
 
             <!-- Customer Information -->
